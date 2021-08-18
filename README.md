@@ -1,2 +1,2 @@
 # java_coder
-Exercicios e metodos do curjo de java da Udemy
+Exercicios e metodos do curso de java da Udemy
