@@ -14,5 +14,10 @@ public class Exercicios {
         System.out.println(Arrays.toString(notasDoAlunoA));
         System.out.println(notasDoAlunoA[0]);
 
+        double[] notasDoAlunoB = {1.0, 3.0, 4.0, 5.0};
+
+        System.out.println(notasDoAlunoB[0]);
+        System.out.println(notasDoAlunoB.length);
+
     }
 }
