@@ -1,6 +1,5 @@
-package Arrays;
+package DesafioArray;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Desafio {
