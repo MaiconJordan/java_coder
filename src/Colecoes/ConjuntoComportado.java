@@ -1,11 +1,7 @@
 package Colecoes;
 
-import DesafioClasses.EqualsHashCode;
-import sun.reflect.generics.tree.Tree;
-
 import java.util.HashSet;
 import java.util.Set;
-import java.util.SortedSet;
 import java.util.TreeSet;
 
 public class ConjuntoComportado {
